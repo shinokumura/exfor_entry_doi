@@ -1,0 +1,5 @@
+exforparser @ git+https://github.com/IAEA-NDS/exforparser@main
+numpy==2.2.3
+pandas==2.2.3
+Requests==2.32.3
+SQLAlchemy==2.0.37
